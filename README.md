@@ -12,6 +12,17 @@ TVLibrary is a React-based web application that allows users to explore TV shows
 - **Local Storage:** Save watchlist and followed actors so they remain available after refreshing the page.
 - **Show Details:** View additional information about TV shows.
 
+## Pages and Routes
+
+- **Home (`/`):** Displays popular TV shows and featured content.
+- **Explore (`/explore`):** Browse popular TV shows and search for specific titles.
+- **Genres (`/genres`):** Browse available TV show genres.
+- **Actors (`/actors`):** Browse popular actors and search for people.
+- **Watchlist (`/watchlist`):** View and manage saved TV shows.
+- **Following (`/following`):** View actors you have chosen to follow.
+- **Not Found (`*`):** Displays a page when a route does not exist.
+
+
 ## Technologies Used
 
 - React
